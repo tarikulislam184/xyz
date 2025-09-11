@@ -3969,4 +3969,5 @@ function lng($txt) {
     else return "$txt";
 }
 
+
 ?>
